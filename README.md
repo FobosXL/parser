@@ -1,0 +1,4 @@
+parser
+======
+
+rambler horoscope parser
